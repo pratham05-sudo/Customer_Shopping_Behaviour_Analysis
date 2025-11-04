@@ -25,7 +25,6 @@ The project identifies purchasing patterns, spending habits, and preferences to 
   | `CustomerID`         | Unique ID for each customer                |
   | `Gender`             | Male/Female                                |
   | `Age`                | Age of the customer                        |
-  | `Annual_Income`      | Customer’s yearly income                   |
   | `Item Purchased`     | Product Name                               |
   | `Category`           | Type of product purchased                  |
   | `Purchase_Amount`    | Total amount spent                         |
@@ -33,7 +32,7 @@ The project identifies purchasing patterns, spending habits, and preferences to 
   | `Size`               | Product Size                               |
   | `Color`              | Product Color                              | 
   | `Season`             | The Season in which Product has been Ordered|
-  | `Location`           | City                                       |
+  | `Subscription_Status`| Does the user have Subscription            |
   | `Shipping Type`      | Different Shipping modes                   |
   | `Discount Applied`   | Do Customer have used Discount             |
   | `Promo Code Used`    | Yes or No                                  |
